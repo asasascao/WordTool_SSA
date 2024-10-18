@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\bin\Debug\ChangeSaveToSaveAs.dll
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\bin\Debug\ChangeSaveToSaveAs.pdb
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\bin\Debug\ChangeSaveToSaveAs.dll.manifest
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\bin\Debug\ChangeSaveToSaveAs.vsto
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\obj\Debug\ChangeSaveToSaveAs.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\obj\Debug\ChangeSaveToSaveAs.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\obj\Debug\ChangeSaveToSaveAs.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\obj\Debug\ChangeSaveToSaveAs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\obj\Debug\ChangeSa.22266913.Up2Date
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\obj\Debug\ChangeSaveToSaveAs.dll
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAs\obj\Debug\ChangeSaveToSaveAs.pdb

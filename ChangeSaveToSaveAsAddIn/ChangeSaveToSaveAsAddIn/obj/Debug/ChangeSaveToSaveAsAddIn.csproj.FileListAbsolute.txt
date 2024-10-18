@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAsAddIn\obj\Debug\ChangeSaveToSaveAsAddIn.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ChangeSaveToSaveAsAddIn\ChangeSaveToSaveAsAddIn\obj\Debug\ChangeSaveToSaveAsAddIn.csproj.CoreCompileInputs.cache

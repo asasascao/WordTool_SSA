@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Created:ce44715c-8c4e-446b-879c-ea9ebe0f09c8-->
+<OfficeApp 
+          xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" 
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+          xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" 
+          xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides"
+          xsi:type="TaskPaneApp">
+
+  <!-- 开始基本设置:外接程序元数据，用于所有版本的 Office(除非提供重写)。 -->
+
+  <!-- 重要事项！ID 对于外接程序必须是唯一的，如果重复使用该清单，请确保将此 ID 改为新的 GUID。 -->
+  <Id>87cac751-1eeb-428a-acf3-7389c68d61fd</Id>
+
+  <!--版本。来自应用商店的更新只有在版本变化时才会被触发。 -->
+  <Version>1.0.0.0</Version>
+  <ProviderName>修改word保存为另存为</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <!-- 外接程序的显示名称。在应用商店中使用，出现在外接程序对话框等 Office UI 中。 -->
+  <DisplayName DefaultValue="ChangeSaveToSaveAsAddIn" />
+  <Description DefaultValue="ChangeSaveToSaveAsAddIn"/>
+  <!-- 外接程序的图标。用于安装屏幕和外接程序对话框中。 -->
+  <IconUrl DefaultValue="~remoteAppUrl/Images/Button32x32.png" />
+
+    <SupportUrl DefaultValue="http://www.contoso.com" />
+    <!--导航时允许使用的域。例如，如果使用 ShowTaskpane，然后得到一个 href 链接，则只有在此列表上存在该域时，才允许导航。 -->
+
+  <!--结束基本设置。 -->
+  
+  <!--开始任务窗格模式集成。如果没有 VersionOverrides 或如果 Office 客户端版本不支持外接程序命令，将使用此部分。 -->
+  <Hosts>
+    <Host Name="Document" />
+  </Hosts>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="~remoteAppUrl/Home.html" />
+  </DefaultSettings>
+  <!-- 结束任务窗格模式集成。  -->
+
+  <Permissions>ReadWriteDocument</Permissions>
+
+</OfficeApp>
